@@ -1,6 +1,6 @@
 Commands used to publish react files in github:
 
-git remote set-url origin https://github.com/Josephidbensalah/To-do-List-App-ReactJs
+git remote set-url origin https://github.com/Josephidbensalah/ReactJs-To-do-App
 
 #build the project
 npm run build
@@ -9,4 +9,4 @@ npm run build
 npm run deploy
 
 The published To-do App will be Soon on this Link:
-https://Josephidbensalah.github.io/To-do-List-App-ReactJs
+https://Josephidbensalah.github.io/ReactJs-To-do-App

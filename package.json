@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Josephidbensalah.github.io/ReactJs-To-do-App",
+  "homepage": "https://Josephidbensalah.github.io/React-To-do-App",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",

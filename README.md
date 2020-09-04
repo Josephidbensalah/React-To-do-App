@@ -6,5 +6,5 @@ npm run build
 
 npm run deploy
 
-The published To-do App:
+The published To-do App will be Soon on this Link:
 https://Josephidbensalah.github.io/To-do-List-App-ReactJs
